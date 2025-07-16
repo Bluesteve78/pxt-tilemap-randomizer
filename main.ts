@@ -1,1 +1,1 @@
-namespace Randomizer
+namespace Randomizer {
