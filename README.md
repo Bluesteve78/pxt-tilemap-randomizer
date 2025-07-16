@@ -1,1 +1,1 @@
-# Thanks for checking out this usless extension!!!
+Thanks for checking out this usless extension!!!
