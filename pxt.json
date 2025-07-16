@@ -1,0 +1,7 @@
+{
+  "name": "tilemap-randomizer",
+  "description": "Randomizes tilemaps at runtime",
+  "dependencies": {},
+  "files": ["main.ts"],
+  "public": true
+}
